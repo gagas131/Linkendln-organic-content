@@ -36,7 +36,7 @@ Notes: Strong stance against traditional lead-gen tactics; promotes content-driv
 
 # Katelyn Bourgoin
 Platform: LinkedIn, Newsletter
-Link: https://www.linkedin.com/in/katelynbourgoin/
+Link: https://www.linkedin.com/in/katebour/
 Last Checked: April 2026
 Focus: Customer psychology, buyer behavior
 Why relevant: Translates behavioral science into actionable content ideas

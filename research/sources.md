@@ -1,4 +1,5 @@
 #Justin Welsh
+
 PPlatform: LinkedIn, YouTube
 Link: https://www.linkedin.com/in/justinwelsh/
 Last Checked: April 2026
@@ -8,6 +9,7 @@ Content Type: Short-form posts, storytelling threads, creator frameworks
 Notes: Strong emphasis on repeatable content systems, hooks, and daily posting discipline
 
 #Alex Hormozi
+
 Platform: YouTube, LinkedIn
 Link: https://www.linkedin.com/in/alexhormozi/
 Last Checked: April 2026
@@ -17,6 +19,7 @@ Content Type: Long-form videos, clipped insights, high-impact short posts
 Notes: Focuses on “value per post” and making content directly tied to revenue
 
 #Amanda Natividad
+
 Platform: LinkedIn, Blog (SparkToro)
 Link: https://www.linkedin.com/in/amandanat/
 Last Checked: April 2026

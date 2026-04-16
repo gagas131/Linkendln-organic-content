@@ -1,0 +1,63 @@
+# Peep Laja
+## Post ! (2026)
+
+Something that was unthinkable relatively recently:
+
+I'm now able to ship stuff to our production app by myself, as a non-engineer.
+
+Previously had to go through developers for everything, stuff had to be prioritized, and small stuff never was. 
+
+Now I tell the coding agent what small feature/change I want, and it codes it up. I do the QA, have the agent iterate, and I can send it as a release candidate to the deployment folks. 
+
+Small things in our app that have annoyed me, I'm now fixing myself. 
+
+Every software company needs to enable this.
+
+Def feels like "I have the power"
+
+## Post 2 (2026)
+
+At Spryng 2026, AI dominated a lot of conversations.
+
+How are we using it? Who's actually getting ROI? Whose business is getting killed by it? Who's getting replaced by AI?
+
+But in those conversations, I noticed something else. Something quieter, but more revealing.
+
+People's skill levels with AI were all over the map.
+
+Some were genuinely proud. "I built a custom GPT," they'd say, like they'd won the lottery. They had no idea they were already behind.
+
+Some were like "I'm still waiting for my Claude invite". (Facepalm moment. You know you can just sign up for a personal account?)
+
+So I started asking a different question.
+
+"How many AI agents have you built?"
+
+About a third had built zero. 
+The next biggest group? One or two. 
+
+Very few had adopted this as the way to do things.
+
+When I dug into why, the answer wasn't technical. It wasn't budget or tooling or complexity.
+
+It was fear.
+
+"I can't do this. It's too hard. I'm not an engineer."
+
+I heard it over and over.
+
+I'm no engineer either. Neither are most people at Wynter. We had everyone at the company build an agent a few weeks ago, first one for most. And something broke open.
+
+It wasn't just that it worked. It's that the wall inside the head — the one that said "this isn't for people like me" — came down.
+
+"Wait… I can actually do this."
+
+Then: "Oh my god. I can kill all my grunt work. Replace freelancers. 5x my output."
+
+The line between marketer, designer, and engineer is almost gone now. One empowered person can do their own design, write code, build tools. No waiting, no dependencies. You can ship all day.
+
+Your value just multiplied. Nobody's gonna lay you off. 
+
+If fear's been holding you back, CXL just launched a training for building AI Agents for B2B Marketing. 14 live sessions on building your own agents, from content automation to ad buying to building tools.
+
+This might be exactly what you need.
